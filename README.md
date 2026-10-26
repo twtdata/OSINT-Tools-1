@@ -384,6 +384,7 @@ Amazing-OSINT listesi kısmen [i-inteligence's](http://www.i-intelligence.eu) [O
 
 * [Hashtagify](http://hashtagify.me)
 * [Iconosquare](http://iconosquare.com)
+* [IGDataHub](https://igdatahub.com/) - Check any public Instagram profile's followers, engagement rate and top posts, and compare creators. / Herkese açık Instagram profillerinin takipçi, etkileşim oranı ve en iyi gönderilerini gösterir
 * [Osintgram](https://github.com/Datalux/Osintgram) - Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname.  / Instagram kullanıcı adından bilgi toplama
 * [Picodash](https://www.picodash.com)
 * [SnapMap](https://snapmap.knightlab.com/)
